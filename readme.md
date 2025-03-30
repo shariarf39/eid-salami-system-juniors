@@ -1,6 +1,3 @@
-Here is your **`README.md`** file with everything included in code format:
-
-
 # Eid Salami Request System
 
 A simple PHP-based system for submitting and managing Eid Salami requests.
