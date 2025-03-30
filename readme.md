@@ -91,5 +91,5 @@ http://localhost/eid-salami-system/
 ## 📞 Contact  
 For support, open an issue or reach out:  
 **Email:** shariar_41220300364@nub.ac.bd  
-**GitHub:** [your-username](https://github.com/shariarf39/)  
+**GitHub:** [shariarf39](https://github.com/shariarf39/)  
 ```
