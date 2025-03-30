@@ -1,0 +1,52 @@
+[29-Mar-2025 18:36:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'SELECT' in /home/fabexpre/public_html/faaa_fahim_admin/index.php:18
+Stack trace:
+#0 /home/fabexpre/public_html/faaa_fahim_admin/index.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 18
+[29-Mar-2025 18:37:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'SELECT' in /home/fabexpre/public_html/faaa_fahim_admin/index.php:21
+Stack trace:
+#0 /home/fabexpre/public_html/faaa_fahim_admin/index.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 21
+[29-Mar-2025 18:38:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'ORDER BY' in /home/fabexpre/public_html/faaa_fahim_admin/index.php:21
+Stack trace:
+#0 /home/fabexpre/public_html/faaa_fahim_admin/index.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 21
+[29-Mar-2025 18:38:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'ORDER BY' in /home/fabexpre/public_html/faaa_fahim_admin/index.php:21
+Stack trace:
+#0 /home/fabexpre/public_html/faaa_fahim_admin/index.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 21
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "bkash_number" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 86
+[29-Mar-2025 18:38:45 UTC] PHP Warning:  Undefined array key "date" in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
+[29-Mar-2025 18:38:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/fabexpre/public_html/faaa_fahim_admin/index.php on line 88
