@@ -1,6 +1,6 @@
 Here is your **`README.md`** file with everything included in code format:
 
-```md
+
 # Eid Salami Request System
 
 A simple PHP-based system for submitting and managing Eid Salami requests.
@@ -20,8 +20,8 @@ A simple PHP-based system for submitting and managing Eid Salami requests.
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/eid-salami-system.git
-cd eid-salami-system
+git https://github.com/shariarf39/eid-salami-system-juniors
+cd eid-salami-system-juniors
 ```
 
 ### 2️⃣ Create the Database  
@@ -90,8 +90,8 @@ http://localhost/eid-salami-system/
 
 ## 📞 Contact  
 For support, open an issue or reach out:  
-**Email:** your-email@example.com  
-**GitHub:** [your-username](https://github.com/your-username/)  
+**Email:** shariar_41220300364@nub.ac.bd  
+**GitHub:** [your-username](https://github.com/shariarf39/)  
 ```
 
 This **README.md** file is properly formatted with code blocks, making it **easy to read and use**. 🚀 Let me know if you need any changes! 😊
