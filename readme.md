@@ -64,11 +64,14 @@ http://localhost/eid-salami-system/
 ## 📂 Project Structure  
 ```bash
 /eid-salami-system
-│── db.php         # Database connection
-│── index.php      # Submission form
-│── submit.php     # Handles form submission
-│── admit_info.php # Displays submitted requests
-│── README.md      # Documentation
+│── db.php                        # Database connection
+│── index.php                     # Submission form
+│── s/
+│   ├── storeaaa.php              # Handles form submission
+│── lov_fahim_admin/
+│   ├── index.php                 # Displays submitted requests
+│── README.md                      # Documentation
+     # Documentation
 ```
 
 ## 📝 Usage  
